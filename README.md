@@ -6,6 +6,3 @@ This project was bootstrapped with the React App.
       First, you must compile and upload the contract to the blockchain network. Go to https://remix.ethereum.org/, 
       and deploy the smart contract on your choice of blockchain. Copy and paste the abi and contract address along 
       with the rpc-url of the blockchain network in constant.js.
-DECENTRALISED VOTING APPLICATION using NEXT.JS
-
-This is a demo application to implement voting in solidity smart contract and backend API in NextJS. THIS IS THE ARCHITECTURE OF THE PROJECT:
